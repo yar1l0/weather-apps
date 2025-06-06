@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.vercel.weather_apps_six_rosy.twa",
+      "sha256_cert_fingerprints": [
+        "B9:40:44:D0:4E:7C:ED:76:36:25:89:7C:22:44:90:9F:B3:56:9A:28:1A:F8:C4:26:A4:EC:8B:4F:85:F5:58:0F"
+      ]
+    }
+  }
+]

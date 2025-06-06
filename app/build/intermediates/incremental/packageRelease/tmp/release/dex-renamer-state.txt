@@ -1,0 +1,4 @@
+#Fri Jun 06 11:34:32 EEST 2025
+base.0=C\:\\Users\\user\\Desktop\\task web\\weather-apps\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
